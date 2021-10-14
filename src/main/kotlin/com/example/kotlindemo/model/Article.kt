@@ -7,7 +7,7 @@ import javax.persistence.Id
 import javax.validation.constraints.NotBlank
 
 /**
- * Created by rajeevkumarsingh on 05/10/17.
+ * Created by eric on 05/10/17.
  */
 @Entity
 data class Article (
